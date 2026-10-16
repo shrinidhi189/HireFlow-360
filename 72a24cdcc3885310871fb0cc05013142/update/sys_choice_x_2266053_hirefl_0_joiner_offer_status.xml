@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="offer_status" table="x_2266053_hirefl_0_joiner" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>060b512304fe4a48a7c6675a0e610e89</sys_id>
+      <element>offer_status</element>
+      <sys_update_name>sys_choice_x_2266053_hirefl_0_joiner_offer_status</sys_update_name>
+      <name>x_2266053_hirefl_0_joiner</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_package display_value="x_2266053_hirefl_0" source="72a24cdcc3885310871fb0cc05013142">72a24cdcc3885310871fb0cc05013142</sys_package>
+      <sys_name>offer_status</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>787d7782e6bf4dbb88292b1353d9dd8a</sys_id>
+      <name>x_2266053_hirefl_0_joiner</name>
+      <element>offer_status</element>
+      <label>Pending</label>
+      <value>pending</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>182852da502349e9a416d5a0d47b2331</sys_id>
+      <name>x_2266053_hirefl_0_joiner</name>
+      <element>offer_status</element>
+      <label>Accepted</label>
+      <value>accepted</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>f9d0e89cee944f88bd03403b29afb858</sys_id>
+      <name>x_2266053_hirefl_0_joiner</name>
+      <element>offer_status</element>
+      <label>Withdrawn</label>
+      <value>withdrawn</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>936a5736f42b43de9ec5857faade80bf</sys_id>
+      <name>x_2266053_hirefl_0_joiner</name>
+      <element>offer_status</element>
+      <label>Revoked</label>
+      <value>revoked</value>
+      <sequence>4</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>

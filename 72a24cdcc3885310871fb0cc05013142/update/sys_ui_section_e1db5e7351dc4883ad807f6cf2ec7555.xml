@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Task Template" section_id="e1db5e7351dc4883ad807f6cf2ec7555" sys_domain="global" table="x_2266053_hirefl_0_task_tmpl" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>c90c0e590e484aa19a9f8ed5fb07760b</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>name</element>
+      <position>1</position>
+      <sys_id>919b06af62804254b67c3e95480760d2</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>category</element>
+      <position>2</position>
+      <sys_id>2dd69a0e7bf54e4982fd2d2f8f0a2eab</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>role_applicable</element>
+      <position>3</position>
+      <sys_id>4cbb5609bc0a448a98d32716693bd22f</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>department_applicable</element>
+      <position>4</position>
+      <sys_id>a10f3be8263b42f5b4ed648168c2925b</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>sla_days</element>
+      <position>5</position>
+      <sys_id>fe5f2562c24f49a78bda0cf1e92fb11e</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>is_mandatory</element>
+      <position>6</position>
+      <sys_id>be66ff9807634cf29ee3c1432d618996</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>active</element>
+      <position>7</position>
+      <sys_id>38ae6425e84c4a9ab45fdf6bab039d3f</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>8</position>
+      <sys_id>32f142d1a9124270bdf551c0d2a3951f</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>policy</element>
+      <position>9</position>
+      <sys_id>6e8661a8c09a42b3b52f8651d9b13745</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>default_assignee_group</element>
+      <position>10</position>
+      <sys_id>fd7b9f61f690435da9221b0bb3f14dea</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>location_applicable</element>
+      <position>11</position>
+      <sys_id>ba0fc80d5d8b4285a3ec1973f339da95</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>sequence_order</element>
+      <position>12</position>
+      <sys_id>f3490d1e7f554bbbb204604eeaeb824c</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>weight</element>
+      <position>13</position>
+      <sys_id>8b78a2b067a54d4fb663de7cddfffb55</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>14</position>
+      <sys_id>95e66d27a81c4d31be817652401cd137</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>description</element>
+      <position>15</position>
+      <sys_id>f152448b8da44c04b27e31f9008d0981</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Template" display_value="Task Template" name="x_2266053_hirefl_0_task_tmpl" sys_domain="global" view="Default view">e1db5e7351dc4883ad807f6cf2ec7555</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Task Template</caption>
+      <header>false</header>
+      <name>x_2266053_hirefl_0_task_tmpl</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>e1db5e7351dc4883ad807f6cf2ec7555</sys_id>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Audit Log" section_id="ebeb8b4822054a389d003ec8b8caf34d" sys_domain="global" table="x_2266053_hirefl_0_audit_log" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>8c38894fdc9947de8a2f8cfe868054ac</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>joiner</element>
+      <position>1</position>
+      <sys_id>dfe041f215724980b3faee62e169801f</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>record_table</element>
+      <position>2</position>
+      <sys_id>3003d196af194645b88633314225cb0f</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>action</element>
+      <position>3</position>
+      <sys_id>0350d9c32d334070b5d9dbca42350305</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>performed_by</element>
+      <position>4</position>
+      <sys_id>5810a8e4c2194ccba1bc211dad35780c</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>5</position>
+      <sys_id>7764b6d034154fe091e8a56aa4f5faad</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>plan</element>
+      <position>6</position>
+      <sys_id>5520058d96d744d9a305abea2dbc85a2</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>record_id</element>
+      <position>7</position>
+      <sys_id>b8334295e59342caa45c24b674e86ca9</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>field_changed</element>
+      <position>8</position>
+      <sys_id>1c9f5e38f1854ebf8fb9a55475c936d4</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>performed_date</element>
+      <position>9</position>
+      <sys_id>a16f4f4e25ca44c893db26b286bc47e8</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>10</position>
+      <sys_id>522c467d4a3540fa95ada520b90e2ed3</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>old_value</element>
+      <position>11</position>
+      <sys_id>208266f481894fb3b29465ebd9621264</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>new_value</element>
+      <position>12</position>
+      <sys_id>d4514bc167a8438c8171d1023e00a1b3</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>details</element>
+      <position>13</position>
+      <sys_id>6472706ad9274683b4182e8e0de83636</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Audit Log" display_value="Audit Log" name="x_2266053_hirefl_0_audit_log" sys_domain="global" view="Default view">ebeb8b4822054a389d003ec8b8caf34d</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Audit Log</caption>
+      <header>false</header>
+      <name>x_2266053_hirefl_0_audit_log</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>ebeb8b4822054a389d003ec8b8caf34d</sys_id>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

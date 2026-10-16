@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="category" table="x_2266053_hirefl_0_ob_task" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>f57f392f4dc9478a841c0f5f71f3630e</sys_id>
+      <element>category</element>
+      <sys_update_name>sys_choice_x_2266053_hirefl_0_ob_task_category</sys_update_name>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_package display_value="x_2266053_hirefl_0" source="72a24cdcc3885310871fb0cc05013142">72a24cdcc3885310871fb0cc05013142</sys_package>
+      <sys_name>category</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>68df059c6a074bb5864ab7ac67dd1972</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>category</element>
+      <label>IT Setup</label>
+      <value>it_setup</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>fca82c1d285c4c4a8ad76b41fccec65d</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>category</element>
+      <label>Access Provisioning</label>
+      <value>access_provisioning</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>9445963b6bbd4aa0b705d40acd6404e7</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>category</element>
+      <label>Documentation</label>
+      <value>documentation</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>26b0b78727b04d6183656c1df238df53</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>category</element>
+      <label>Training</label>
+      <value>training</value>
+      <sequence>4</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>b4d286fcffd94d2aa625ff08642ff1b9</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>category</element>
+      <label>Compliance</label>
+      <value>compliance</value>
+      <sequence>5</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>be4d087b1d634d7789e77c90b74b9df8</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>category</element>
+      <label>BGV</label>
+      <value>bgv</value>
+      <sequence>6</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>65370b3ef273403fb1f6de9b1e9fbbe7</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>category</element>
+      <label>Induction</label>
+      <value>induction</value>
+      <sequence>7</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>9e449a706bfa46bc861732cc1740ce4c</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>category</element>
+      <label>HR Admin</label>
+      <value>hr_admin</value>
+      <sequence>8</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>

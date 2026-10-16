@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="SLA Definition" section_id="46e05f4cef1046e18ebe708f3e5fe232" sys_domain="global" table="x_2266053_hirefl_0_sla_def" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>a1bbd655b9fd44a0ba436f9224ced682</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="SLA Definition" display_value="SLA Definition" name="x_2266053_hirefl_0_sla_def" sys_domain="global" view="Default view">46e05f4cef1046e18ebe708f3e5fe232</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>name</element>
+      <position>1</position>
+      <sys_id>dfb1a9def4e64d9d9d06c5bef8244341</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="SLA Definition" display_value="SLA Definition" name="x_2266053_hirefl_0_sla_def" sys_domain="global" view="Default view">46e05f4cef1046e18ebe708f3e5fe232</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>table_name</element>
+      <position>2</position>
+      <sys_id>ab412b121481476992ba9573a491041c</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="SLA Definition" display_value="SLA Definition" name="x_2266053_hirefl_0_sla_def" sys_domain="global" view="Default view">46e05f4cef1046e18ebe708f3e5fe232</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>condition_field</element>
+      <position>3</position>
+      <sys_id>3e1523d0f12f4a108dedd08bd29dba74</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="SLA Definition" display_value="SLA Definition" name="x_2266053_hirefl_0_sla_def" sys_domain="global" view="Default view">46e05f4cef1046e18ebe708f3e5fe232</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>duration_days</element>
+      <position>4</position>
+      <sys_id>d58da26196d345e7883b4266491c0fc5</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="SLA Definition" display_value="SLA Definition" name="x_2266053_hirefl_0_sla_def" sys_domain="global" view="Default view">46e05f4cef1046e18ebe708f3e5fe232</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>active</element>
+      <position>5</position>
+      <sys_id>47bfc603d06044ae8f6cde90cb09044c</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="SLA Definition" display_value="SLA Definition" name="x_2266053_hirefl_0_sla_def" sys_domain="global" view="Default view">46e05f4cef1046e18ebe708f3e5fe232</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>6</position>
+      <sys_id>74b5620a782842f0a04d4fccc617f26a</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="SLA Definition" display_value="SLA Definition" name="x_2266053_hirefl_0_sla_def" sys_domain="global" view="Default view">46e05f4cef1046e18ebe708f3e5fe232</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>escalation_group</element>
+      <position>7</position>
+      <sys_id>41e0f5203abb4b81973af6ce8d33d7c6</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="SLA Definition" display_value="SLA Definition" name="x_2266053_hirefl_0_sla_def" sys_domain="global" view="Default view">46e05f4cef1046e18ebe708f3e5fe232</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>condition_value</element>
+      <position>8</position>
+      <sys_id>bf6d2305f92d4bcfb73f025f209b241b</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="SLA Definition" display_value="SLA Definition" name="x_2266053_hirefl_0_sla_def" sys_domain="global" view="Default view">46e05f4cef1046e18ebe708f3e5fe232</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>warning_days</element>
+      <position>9</position>
+      <sys_id>8ffd43b801864c38b12f088e7397eebc</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="SLA Definition" display_value="SLA Definition" name="x_2266053_hirefl_0_sla_def" sys_domain="global" view="Default view">46e05f4cef1046e18ebe708f3e5fe232</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>10</position>
+      <sys_id>db5b31abeced47f3943a6605953f19eb</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="SLA Definition" display_value="SLA Definition" name="x_2266053_hirefl_0_sla_def" sys_domain="global" view="Default view">46e05f4cef1046e18ebe708f3e5fe232</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>description</element>
+      <position>11</position>
+      <sys_id>03f6e7fdef034519af83c2c08867b3e8</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="SLA Definition" display_value="SLA Definition" name="x_2266053_hirefl_0_sla_def" sys_domain="global" view="Default view">46e05f4cef1046e18ebe708f3e5fe232</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>SLA Definition</caption>
+      <header>false</header>
+      <name>x_2266053_hirefl_0_sla_def</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>46e05f4cef1046e18ebe708f3e5fe232</sys_id>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

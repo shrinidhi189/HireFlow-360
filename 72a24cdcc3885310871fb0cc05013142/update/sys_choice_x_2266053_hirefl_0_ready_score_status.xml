@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="status" table="x_2266053_hirefl_0_ready_score" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>67c655849beb4b98817d0da8711b27ea</sys_id>
+      <element>status</element>
+      <sys_update_name>sys_choice_x_2266053_hirefl_0_ready_score_status</sys_update_name>
+      <name>x_2266053_hirefl_0_ready_score</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_package display_value="x_2266053_hirefl_0" source="72a24cdcc3885310871fb0cc05013142">72a24cdcc3885310871fb0cc05013142</sys_package>
+      <sys_name>status</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>83dce2d396d849cc932386592accfd17</sys_id>
+      <name>x_2266053_hirefl_0_ready_score</name>
+      <element>status</element>
+      <label>Not Assessed</label>
+      <value>not_assessed</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>edfaea824d45473a9b4053cee88e753b</sys_id>
+      <name>x_2266053_hirefl_0_ready_score</name>
+      <element>status</element>
+      <label>On Track</label>
+      <value>on_track</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>38f5d1787d2645b99c383ad6e2e604c1</sys_id>
+      <name>x_2266053_hirefl_0_ready_score</name>
+      <element>status</element>
+      <label>At Risk</label>
+      <value>at_risk</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>4fcffdeba8bb44eb9f3c52740c163f15</sys_id>
+      <name>x_2266053_hirefl_0_ready_score</name>
+      <element>status</element>
+      <label>Critical</label>
+      <value>critical</value>
+      <sequence>4</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>632de57a46534fb5a7af466d59afb8ba</sys_id>
+      <name>x_2266053_hirefl_0_ready_score</name>
+      <element>status</element>
+      <label>Ready</label>
+      <value>ready</value>
+      <sequence>5</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>a11dd080db754928b7637141d59faad4</sys_id>
+      <name>x_2266053_hirefl_0_ready_score</name>
+      <element>status</element>
+      <label>Failed</label>
+      <value>failed</value>
+      <sequence>6</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>

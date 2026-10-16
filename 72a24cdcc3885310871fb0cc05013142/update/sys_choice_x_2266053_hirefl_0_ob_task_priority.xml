@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="priority" table="x_2266053_hirefl_0_ob_task" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>65f9b39eea104deba96c7dcce5b2cb9f</sys_id>
+      <element>priority</element>
+      <sys_update_name>sys_choice_x_2266053_hirefl_0_ob_task_priority</sys_update_name>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_package display_value="x_2266053_hirefl_0" source="72a24cdcc3885310871fb0cc05013142">72a24cdcc3885310871fb0cc05013142</sys_package>
+      <sys_name>priority</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>b2c38c3ecf3340d4bc560b8394fa33c1</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>priority</element>
+      <label>Critical</label>
+      <value>critical</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>ff30c43721454da7883b072814a8cb71</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>priority</element>
+      <label>High</label>
+      <value>high</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>6fec1a95cd984df0aeded4bfc8d2dc44</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>priority</element>
+      <label>Medium</label>
+      <value>medium</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>7b63e327073b433494615a2ed65439ca</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>priority</element>
+      <label>Low</label>
+      <value>low</value>
+      <sequence>4</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>

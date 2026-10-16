@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_form_sections form_id="15709aae4dd14ea5a5a8b447a4fca717" sys_domain="global" table="x_2266053_hirefl_0_recov_act">
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>0</position>
+      <sys_id>2fa12ec062914a2881015ea8f7697513</sys_id>
+      <sys_ui_form display_value="x_2266053_hirefl_0_recov_act" name="x_2266053_hirefl_0_recov_act" sys_domain="global" view="Default view">15709aae4dd14ea5a5a8b447a4fca717</sys_ui_form>
+      <sys_ui_section caption="Recovery Action" display_value="Recovery Action" name="x_2266053_hirefl_0_recov_act" sys_domain="global" view="Default view">047afa0b6f2e4a98ad8fd2f099ee5b90</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form action="INSERT_OR_UPDATE" apply_defaults="true">
+      <name>x_2266053_hirefl_0_recov_act</name>
+      <roles/>
+      <sys_id>15709aae4dd14ea5a5a8b447a4fca717</sys_id>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_user/>
+      <view display_value="Default view" name="NULL">Default view</view>
+      <view_name/>
+    </sys_ui_form>
+  </sys_ui_form_sections>
+</record_update>

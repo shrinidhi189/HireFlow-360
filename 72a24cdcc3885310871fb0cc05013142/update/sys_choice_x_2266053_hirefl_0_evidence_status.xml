@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="status" table="x_2266053_hirefl_0_evidence" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>13cc20c8a5574fac867f196e034b84c4</sys_id>
+      <element>status</element>
+      <sys_update_name>sys_choice_x_2266053_hirefl_0_evidence_status</sys_update_name>
+      <name>x_2266053_hirefl_0_evidence</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_package display_value="x_2266053_hirefl_0" source="72a24cdcc3885310871fb0cc05013142">72a24cdcc3885310871fb0cc05013142</sys_package>
+      <sys_name>status</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>52d4fb440734401497cc9ee5e7ad7e1d</sys_id>
+      <name>x_2266053_hirefl_0_evidence</name>
+      <element>status</element>
+      <label>Pending</label>
+      <value>pending</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>f36cf530f2874631b958f2e6f4468dc3</sys_id>
+      <name>x_2266053_hirefl_0_evidence</name>
+      <element>status</element>
+      <label>Submitted</label>
+      <value>submitted</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>ab7c4eab9d354b64b05deb0ddb091734</sys_id>
+      <name>x_2266053_hirefl_0_evidence</name>
+      <element>status</element>
+      <label>Verified</label>
+      <value>verified</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>ebaa6027ad0240e1b0145d5b8784bced</sys_id>
+      <name>x_2266053_hirefl_0_evidence</name>
+      <element>status</element>
+      <label>Rejected</label>
+      <value>rejected</value>
+      <sequence>4</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>68c7f7972f12404b92042b9895e33af1</sys_id>
+      <name>x_2266053_hirefl_0_evidence</name>
+      <element>status</element>
+      <label>Expired</label>
+      <value>expired</value>
+      <sequence>5</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>

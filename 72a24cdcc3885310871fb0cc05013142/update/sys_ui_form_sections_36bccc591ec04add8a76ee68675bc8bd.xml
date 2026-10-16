@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_form_sections form_id="36bccc591ec04add8a76ee68675bc8bd" sys_domain="global" table="x_2266053_hirefl_0_evidence">
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>0</position>
+      <sys_id>58ca38eaf416404ab95f88c6eb67ef8a</sys_id>
+      <sys_ui_form display_value="x_2266053_hirefl_0_evidence" name="x_2266053_hirefl_0_evidence" sys_domain="global" view="Default view">36bccc591ec04add8a76ee68675bc8bd</sys_ui_form>
+      <sys_ui_section caption="Evidence" display_value="Evidence" name="x_2266053_hirefl_0_evidence" sys_domain="global" view="Default view">030a65c0c4ec4ea08b5418d5db8e2323</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form action="INSERT_OR_UPDATE" apply_defaults="true">
+      <name>x_2266053_hirefl_0_evidence</name>
+      <roles/>
+      <sys_id>36bccc591ec04add8a76ee68675bc8bd</sys_id>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_user/>
+      <view display_value="Default view" name="NULL">Default view</view>
+      <view_name/>
+    </sys_ui_form>
+  </sys_ui_form_sections>
+</record_update>

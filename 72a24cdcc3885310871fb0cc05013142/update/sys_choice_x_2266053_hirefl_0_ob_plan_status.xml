@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="status" table="x_2266053_hirefl_0_ob_plan" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>133edc7c4e014aa0a85c767a092c56cf</sys_id>
+      <element>status</element>
+      <sys_update_name>sys_choice_x_2266053_hirefl_0_ob_plan_status</sys_update_name>
+      <name>x_2266053_hirefl_0_ob_plan</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_package display_value="x_2266053_hirefl_0" source="72a24cdcc3885310871fb0cc05013142">72a24cdcc3885310871fb0cc05013142</sys_package>
+      <sys_name>status</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>60c77695735645328a5db4146a8cdb63</sys_id>
+      <name>x_2266053_hirefl_0_ob_plan</name>
+      <element>status</element>
+      <label>Draft</label>
+      <value>draft</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>a99b947e1ba84284b5ab06f45fce2467</sys_id>
+      <name>x_2266053_hirefl_0_ob_plan</name>
+      <element>status</element>
+      <label>Active</label>
+      <value>active</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>5a0b30b282c14c69a9ff0752a93ce502</sys_id>
+      <name>x_2266053_hirefl_0_ob_plan</name>
+      <element>status</element>
+      <label>Completed</label>
+      <value>completed</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>ea123daae0734130b225e7d4603b1999</sys_id>
+      <name>x_2266053_hirefl_0_ob_plan</name>
+      <element>status</element>
+      <label>Cancelled</label>
+      <value>cancelled</value>
+      <sequence>4</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>

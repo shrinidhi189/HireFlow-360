@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="exception_type" table="x_2266053_hirefl_0_exception" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>32029851d92f4a2c87c1cd805f7a4a03</sys_id>
+      <element>exception_type</element>
+      <sys_update_name>sys_choice_x_2266053_hirefl_0_exception_exception_type</sys_update_name>
+      <name>x_2266053_hirefl_0_exception</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_package display_value="x_2266053_hirefl_0" source="72a24cdcc3885310871fb0cc05013142">72a24cdcc3885310871fb0cc05013142</sys_package>
+      <sys_name>exception_type</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>7cecc142ab334661a20e23a5cd655113</sys_id>
+      <name>x_2266053_hirefl_0_exception</name>
+      <element>exception_type</element>
+      <label>E1 - Device Unavailable</label>
+      <value>e1_device_unavailable</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>b2990e1366204253ae219db3c6e59094</sys_id>
+      <name>x_2266053_hirefl_0_exception</name>
+      <element>exception_type</element>
+      <label>E2 - Access Delayed</label>
+      <value>e2_access_delayed</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>925c42d8448d4fc498998001b8e8a14c</sys_id>
+      <name>x_2266053_hirefl_0_exception</name>
+      <element>exception_type</element>
+      <label>E3 - BGV Discrepancy</label>
+      <value>e3_bgv_discrepancy</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>84d7dcbba8714e49a383b382e8c6b554</sys_id>
+      <name>x_2266053_hirefl_0_exception</name>
+      <element>exception_type</element>
+      <label>E4 - Schedule Change</label>
+      <value>e4_schedule_change</value>
+      <sequence>4</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>b0afc82b5003470a863614bd0205a9e3</sys_id>
+      <name>x_2266053_hirefl_0_exception</name>
+      <element>exception_type</element>
+      <label>E5 - Integration Failure</label>
+      <value>e5_integration_failure</value>
+      <sequence>5</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>b4621e8968364e17b68fe068c5d41351</sys_id>
+      <name>x_2266053_hirefl_0_exception</name>
+      <element>exception_type</element>
+      <label>E6 - Offer Withdrawn</label>
+      <value>e6_offer_withdrawn</value>
+      <sequence>6</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>

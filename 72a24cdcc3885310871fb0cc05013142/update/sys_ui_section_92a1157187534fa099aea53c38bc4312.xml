@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Onboarding Plan" section_id="92a1157187534fa099aea53c38bc4312" sys_domain="global" table="x_2266053_hirefl_0_ob_plan" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>43c03f1711394d028080418dfacecd87</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>joiner</element>
+      <position>1</position>
+      <sys_id>632d2e95dd2c42318c9327b32472ad1d</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>status</element>
+      <position>2</position>
+      <sys_id>21fce2ddd96d4952ab8db5ec02abf7d6</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>total_tasks</element>
+      <position>3</position>
+      <sys_id>7813556a1e8a4dd890e34c57e06699e7</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>readiness_score</element>
+      <position>4</position>
+      <sys_id>24b4a373e55a4f43a686d85d70ef380b</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>mandatory_gate_passed</element>
+      <position>5</position>
+      <sys_id>3f47fcc30a9c412ba988b71cd034deff</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>created_by</element>
+      <position>6</position>
+      <sys_id>27a99f0e825b41aba780d7716ecf77ef</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>7</position>
+      <sys_id>556a63eefd74433a8f15370f9e6a2f63</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>plan_name</element>
+      <position>8</position>
+      <sys_id>43f49888f43e41ec9cfea0cf3a3c58a0</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>target_date</element>
+      <position>9</position>
+      <sys_id>01aa395343124bf49639cabc5aebbf2e</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>completed_tasks</element>
+      <position>10</position>
+      <sys_id>257f7dc0462e463199786d59c794d7f8</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>readiness_status</element>
+      <position>11</position>
+      <sys_id>f591fd2870714eb0831d16ab8e9947f7</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>day1_cleared</element>
+      <position>12</position>
+      <sys_id>1f8776dc58d0404c89eebd08689c53f8</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>13</position>
+      <sys_id>c92eb129b84d47f4be6f26e6fc381cc9</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Plan" display_value="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" sys_domain="global" view="Default view">92a1157187534fa099aea53c38bc4312</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Onboarding Plan</caption>
+      <header>false</header>
+      <name>x_2266053_hirefl_0_ob_plan</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>92a1157187534fa099aea53c38bc4312</sys_id>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Forecast" section_id="feef72f0e2af45bba5cbb5ce37b9c8e5" sys_domain="global" table="x_2266053_hirefl_0_forecast" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>4f45fe98dd8542639a362fd497906c34</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>plan</element>
+      <position>1</position>
+      <sys_id>7efece6973c64facb5c21c1291c7e7bf</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>forecast_date</element>
+      <position>2</position>
+      <sys_id>683737d81a274ed4b49fd4c1bc8b1fa3</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>risk_level</element>
+      <position>3</position>
+      <sys_id>7603050f1e7d4806bade5ca322c0fe09</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>forecast_type</element>
+      <position>4</position>
+      <sys_id>f02c4bd695b749bfaf21f6300a595e26</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>5</position>
+      <sys_id>f3a4ea6a654e4ad2ba9ef4d2a759e0f7</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>joiner</element>
+      <position>6</position>
+      <sys_id>6498a15c4c15413eb61eded0e76f21e2</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>predicted_delay_days</element>
+      <position>7</position>
+      <sys_id>e909313875ec4303b0cd9a94c4ccdea8</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>confidence_score</element>
+      <position>8</position>
+      <sys_id>584d11875f56427485d7bca10217ff27</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>is_latest</element>
+      <position>9</position>
+      <sys_id>bb01a8ca591c4c1ba178d259dcd2e699</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>10</position>
+      <sys_id>6cd2cc15389f497296aff353f69f380c</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>delay_reasons</element>
+      <position>11</position>
+      <sys_id>3d45dcef1d3a4a09aebdb9deea3257bd</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>recommended_actions</element>
+      <position>12</position>
+      <sys_id>39adb4f6ae984ed5888c169b83e5a897</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Forecast</caption>
+      <header>false</header>
+      <name>x_2266053_hirefl_0_forecast</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>feef72f0e2af45bba5cbb5ce37b9c8e5</sys_id>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

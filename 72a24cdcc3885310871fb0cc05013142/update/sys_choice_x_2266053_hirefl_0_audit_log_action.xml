@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="action" table="x_2266053_hirefl_0_audit_log" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>94a446ecd4f64891a3e787f07cf34304</sys_id>
+      <element>action</element>
+      <sys_update_name>sys_choice_x_2266053_hirefl_0_audit_log_action</sys_update_name>
+      <name>x_2266053_hirefl_0_audit_log</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_package display_value="x_2266053_hirefl_0" source="72a24cdcc3885310871fb0cc05013142">72a24cdcc3885310871fb0cc05013142</sys_package>
+      <sys_name>action</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>bebe3b011225437497c1b82b14c0859c</sys_id>
+      <name>x_2266053_hirefl_0_audit_log</name>
+      <element>action</element>
+      <label>Create</label>
+      <value>create</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>8314d22debe441e69ef288d4e0e8c868</sys_id>
+      <name>x_2266053_hirefl_0_audit_log</name>
+      <element>action</element>
+      <label>Update</label>
+      <value>update</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>8cd1ef6006e74653838489db18f1bbd8</sys_id>
+      <name>x_2266053_hirefl_0_audit_log</name>
+      <element>action</element>
+      <label>State Change</label>
+      <value>state_change</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>7bcc12ce9af6433f854ef756cdc9af1f</sys_id>
+      <name>x_2266053_hirefl_0_audit_log</name>
+      <element>action</element>
+      <label>Gate Check</label>
+      <value>gate_check</value>
+      <sequence>4</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>587dc280a3d849948ab1a9a9b138b427</sys_id>
+      <name>x_2266053_hirefl_0_audit_log</name>
+      <element>action</element>
+      <label>Approval</label>
+      <value>approval</value>
+      <sequence>5</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>41b9a871e96a4587bef78280796fb498</sys_id>
+      <name>x_2266053_hirefl_0_audit_log</name>
+      <element>action</element>
+      <label>Escalation</label>
+      <value>escalation</value>
+      <sequence>6</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>165a865d29a44d548f501a2c4c9be2a9</sys_id>
+      <name>x_2266053_hirefl_0_audit_log</name>
+      <element>action</element>
+      <label>Exception</label>
+      <value>exception</value>
+      <sequence>7</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>780a6d3c04e5450e9bd7874940a7ffd2</sys_id>
+      <name>x_2266053_hirefl_0_audit_log</name>
+      <element>action</element>
+      <label>Scoring</label>
+      <value>scoring</value>
+      <sequence>8</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>

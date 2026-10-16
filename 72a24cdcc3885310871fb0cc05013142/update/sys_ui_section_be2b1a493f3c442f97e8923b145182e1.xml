@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Onboarding Policy" section_id="be2b1a493f3c442f97e8923b145182e1" sys_domain="global" table="x_2266053_hirefl_0_ob_policy" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>05a9be68a75c4220b9fcdf7637b2924a</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Policy" display_value="Onboarding Policy" name="x_2266053_hirefl_0_ob_policy" sys_domain="global" view="Default view">be2b1a493f3c442f97e8923b145182e1</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>name</element>
+      <position>1</position>
+      <sys_id>71c2bfaf9b44460eb7f95ff67b817dcd</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Policy" display_value="Onboarding Policy" name="x_2266053_hirefl_0_ob_policy" sys_domain="global" view="Default view">be2b1a493f3c442f97e8923b145182e1</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>policy_type</element>
+      <position>2</position>
+      <sys_id>82d323f846f54eba89f247c542213866</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Policy" display_value="Onboarding Policy" name="x_2266053_hirefl_0_ob_policy" sys_domain="global" view="Default view">be2b1a493f3c442f97e8923b145182e1</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>readiness_threshold</element>
+      <position>3</position>
+      <sys_id>57edb7a0fa9b407b87a0d482d9858bd6</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Policy" display_value="Onboarding Policy" name="x_2266053_hirefl_0_ob_policy" sys_domain="global" view="Default view">be2b1a493f3c442f97e8923b145182e1</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>4</position>
+      <sys_id>003f859e44274ed6985c28a2b1c6c105</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Policy" display_value="Onboarding Policy" name="x_2266053_hirefl_0_ob_policy" sys_domain="global" view="Default view">be2b1a493f3c442f97e8923b145182e1</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>active</element>
+      <position>5</position>
+      <sys_id>196e433e6af34c1482cafe0d79d74d49</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Policy" display_value="Onboarding Policy" name="x_2266053_hirefl_0_ob_policy" sys_domain="global" view="Default view">be2b1a493f3c442f97e8923b145182e1</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>sla_days</element>
+      <position>6</position>
+      <sys_id>d236c43c587642a38fec0bc99a7d39b4</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Policy" display_value="Onboarding Policy" name="x_2266053_hirefl_0_ob_policy" sys_domain="global" view="Default view">be2b1a493f3c442f97e8923b145182e1</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>7</position>
+      <sys_id>a3818d354a504b93a203033c5eb60396</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Policy" display_value="Onboarding Policy" name="x_2266053_hirefl_0_ob_policy" sys_domain="global" view="Default view">be2b1a493f3c442f97e8923b145182e1</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>description</element>
+      <position>8</position>
+      <sys_id>54db480fe47a46bbb5a0aec8177020d3</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Onboarding Policy" display_value="Onboarding Policy" name="x_2266053_hirefl_0_ob_policy" sys_domain="global" view="Default view">be2b1a493f3c442f97e8923b145182e1</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Onboarding Policy</caption>
+      <header>false</header>
+      <name>x_2266053_hirefl_0_ob_policy</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>be2b1a493f3c442f97e8923b145182e1</sys_id>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

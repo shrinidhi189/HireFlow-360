@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_form_sections form_id="a10800fdcacb43d8a9b11d425ec62cc6" sys_domain="global" table="x_2266053_hirefl_0_joiner">
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>0</position>
+      <sys_id>231d82f006d542c39a644c9b5cee7a33</sys_id>
+      <sys_ui_form display_value="x_2266053_hirefl_0_joiner" name="x_2266053_hirefl_0_joiner" sys_domain="global" view="Default view">a10800fdcacb43d8a9b11d425ec62cc6</sys_ui_form>
+      <sys_ui_section caption="Joiner" display_value="Joiner" name="x_2266053_hirefl_0_joiner" sys_domain="global" view="Default view">369aaf569ae54c93b0d8a63df26476a2</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form action="INSERT_OR_UPDATE" apply_defaults="true">
+      <name>x_2266053_hirefl_0_joiner</name>
+      <roles/>
+      <sys_id>a10800fdcacb43d8a9b11d425ec62cc6</sys_id>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_user/>
+      <view display_value="Default view" name="NULL">Default view</view>
+      <view_name/>
+    </sys_ui_form>
+  </sys_ui_form_sections>
+</record_update>

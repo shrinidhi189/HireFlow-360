@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="status" table="x_2266053_hirefl_0_ob_task" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>73cb341299d0406a8ea5ccaaeec94bbd</sys_id>
+      <element>status</element>
+      <sys_update_name>sys_choice_x_2266053_hirefl_0_ob_task_status</sys_update_name>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_package display_value="x_2266053_hirefl_0" source="72a24cdcc3885310871fb0cc05013142">72a24cdcc3885310871fb0cc05013142</sys_package>
+      <sys_name>status</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>87f59b0a6e6649eb8f8899038601396d</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>status</element>
+      <label>Pending</label>
+      <value>pending</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>0da114ce6e58436c97c6192e756a4081</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>status</element>
+      <label>In Progress</label>
+      <value>in_progress</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>40d4a17292c94b84a7027c5ec79d34c1</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>status</element>
+      <label>Completed</label>
+      <value>completed</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>8771a917072641ca8c0c6cce23ea5c79</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>status</element>
+      <label>Blocked</label>
+      <value>blocked</value>
+      <sequence>4</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>66155c980ccf434a987d35cd93b3ca7c</sys_id>
+      <name>x_2266053_hirefl_0_ob_task</name>
+      <element>status</element>
+      <label>Cancelled</label>
+      <value>cancelled</value>
+      <sequence>5</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>

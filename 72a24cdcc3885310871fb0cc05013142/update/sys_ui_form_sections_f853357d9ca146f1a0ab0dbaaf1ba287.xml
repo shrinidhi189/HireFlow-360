@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_form_sections form_id="f853357d9ca146f1a0ab0dbaaf1ba287" sys_domain="global" table="x_2266053_hirefl_0_forecast">
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>0</position>
+      <sys_id>8cb195589cde4817901bd313cef4c8cb</sys_id>
+      <sys_ui_form display_value="x_2266053_hirefl_0_forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">f853357d9ca146f1a0ab0dbaaf1ba287</sys_ui_form>
+      <sys_ui_section caption="Forecast" display_value="Forecast" name="x_2266053_hirefl_0_forecast" sys_domain="global" view="Default view">feef72f0e2af45bba5cbb5ce37b9c8e5</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form action="INSERT_OR_UPDATE" apply_defaults="true">
+      <name>x_2266053_hirefl_0_forecast</name>
+      <roles/>
+      <sys_id>f853357d9ca146f1a0ab0dbaaf1ba287</sys_id>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_user/>
+      <view display_value="Default view" name="NULL">Default view</view>
+      <view_name/>
+    </sys_ui_form>
+  </sys_ui_form_sections>
+</record_update>

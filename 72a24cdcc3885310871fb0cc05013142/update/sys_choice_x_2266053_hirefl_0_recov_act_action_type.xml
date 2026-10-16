@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="action_type" table="x_2266053_hirefl_0_recov_act" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>d3df3f616b2c4df0b7589895ec70e6b1</sys_id>
+      <element>action_type</element>
+      <sys_update_name>sys_choice_x_2266053_hirefl_0_recov_act_action_type</sys_update_name>
+      <name>x_2266053_hirefl_0_recov_act</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_package display_value="x_2266053_hirefl_0" source="72a24cdcc3885310871fb0cc05013142">72a24cdcc3885310871fb0cc05013142</sys_package>
+      <sys_name>action_type</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>6da9939e3f074c0993158f3a5ffa1069</sys_id>
+      <name>x_2266053_hirefl_0_recov_act</name>
+      <element>action_type</element>
+      <label>Reassign</label>
+      <value>reassign</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>8bbc0bdcb0e146139cc90497dc107dd8</sys_id>
+      <name>x_2266053_hirefl_0_recov_act</name>
+      <element>action_type</element>
+      <label>Reschedule</label>
+      <value>reschedule</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>130aadd372b842ad9f364d851f7c0a04</sys_id>
+      <name>x_2266053_hirefl_0_recov_act</name>
+      <element>action_type</element>
+      <label>Substitute</label>
+      <value>substitute</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>8450ce3a1a654476a016397a4ea583fb</sys_id>
+      <name>x_2266053_hirefl_0_recov_act</name>
+      <element>action_type</element>
+      <label>Escalate</label>
+      <value>escalate</value>
+      <sequence>4</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>f4ee211bf7c34c698a903e7f87d989d2</sys_id>
+      <name>x_2266053_hirefl_0_recov_act</name>
+      <element>action_type</element>
+      <label>Manual Override</label>
+      <value>manual_override</value>
+      <sequence>5</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>312c0e27a0454e5caedd9881da8650b5</sys_id>
+      <name>x_2266053_hirefl_0_recov_act</name>
+      <element>action_type</element>
+      <label>Waive</label>
+      <value>waive</value>
+      <sequence>6</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>

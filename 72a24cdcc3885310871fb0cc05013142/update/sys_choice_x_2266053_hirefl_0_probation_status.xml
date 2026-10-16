@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="status" table="x_2266053_hirefl_0_probation" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>3121270636274949a731389195b1cdc0</sys_id>
+      <element>status</element>
+      <sys_update_name>sys_choice_x_2266053_hirefl_0_probation_status</sys_update_name>
+      <name>x_2266053_hirefl_0_probation</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_package display_value="x_2266053_hirefl_0" source="72a24cdcc3885310871fb0cc05013142">72a24cdcc3885310871fb0cc05013142</sys_package>
+      <sys_name>status</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>8bfd36c3643c4d0faae5036883a8221f</sys_id>
+      <name>x_2266053_hirefl_0_probation</name>
+      <element>status</element>
+      <label>Not Started</label>
+      <value>not_started</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>dcd7ea121110471d805a850c463ad121</sys_id>
+      <name>x_2266053_hirefl_0_probation</name>
+      <element>status</element>
+      <label>Induction</label>
+      <value>induction</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>755b7dbbf7d24bb3be13fe4c0a8a6b1f</sys_id>
+      <name>x_2266053_hirefl_0_probation</name>
+      <element>status</element>
+      <label>Training</label>
+      <value>training</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>55ac47d8fa5442eb9255e9c0ada259ad</sys_id>
+      <name>x_2266053_hirefl_0_probation</name>
+      <element>status</element>
+      <label>On Probation</label>
+      <value>on_probation</value>
+      <sequence>4</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>ed93f67e254a44358e9652f2f2c231eb</sys_id>
+      <name>x_2266053_hirefl_0_probation</name>
+      <element>status</element>
+      <label>Confirmed</label>
+      <value>confirmed</value>
+      <sequence>5</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>88f4480a0e00481583d4f8698791c55f</sys_id>
+      <name>x_2266053_hirefl_0_probation</name>
+      <element>status</element>
+      <label>Extended</label>
+      <value>extended</value>
+      <sequence>6</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>b599894f8cf946038109558c9ec700f1</sys_id>
+      <name>x_2266053_hirefl_0_probation</name>
+      <element>status</element>
+      <label>Separated</label>
+      <value>separated</value>
+      <sequence>7</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>

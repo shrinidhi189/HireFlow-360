@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Readiness Score" section_id="fd93cdfd7fe5446289d5e2a06a2766dd" sys_domain="global" table="x_2266053_hirefl_0_ready_score" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>f0f7591b71ae45afa6d3c9f8c1c964ea</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>plan</element>
+      <position>1</position>
+      <sys_id>32889cb4a7d14aaf966402a69aa2a053</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>overall_score</element>
+      <position>2</position>
+      <sys_id>90949a2a4f064d31b7828dadbde5de39</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>mandatory_items_total</element>
+      <position>3</position>
+      <sys_id>82ced0d457b043cf9697e0a691dbe3b7</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>mandatory_gate_passed</element>
+      <position>4</position>
+      <sys_id>e1e33dbf88ae4e52909c559e24db7404</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>assessed_by</element>
+      <position>5</position>
+      <sys_id>36628f97ffb84784b8d5815c99d1999a</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>6</position>
+      <sys_id>3abfdda809374efe956b249e580e15f9</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>joiner</element>
+      <position>7</position>
+      <sys_id>5a4c0d7d1abb4a3ea7359ef509a0a625</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>weighted_score</element>
+      <position>8</position>
+      <sys_id>d725c97997644d73a5901317ccdc07db</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>mandatory_items_completed</element>
+      <position>9</position>
+      <sys_id>81135d6f29c9416884085841a24a4e9b</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>assessment_date</element>
+      <position>10</position>
+      <sys_id>e1cfbfe9b2a44cbbb23ac619117647a9</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>status</element>
+      <position>11</position>
+      <sys_id>f1fe840c7d4240ec8369ef8550b1b51b</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>12</position>
+      <sys_id>dcc94a08575f4b4ea379264e5ee0da37</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>score_details</element>
+      <position>13</position>
+      <sys_id>887798882b6644578bc7153b595bc197</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Readiness Score" display_value="Readiness Score" name="x_2266053_hirefl_0_ready_score" sys_domain="global" view="Default view">fd93cdfd7fe5446289d5e2a06a2766dd</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Readiness Score</caption>
+      <header>false</header>
+      <name>x_2266053_hirefl_0_ready_score</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>fd93cdfd7fe5446289d5e2a06a2766dd</sys_id>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

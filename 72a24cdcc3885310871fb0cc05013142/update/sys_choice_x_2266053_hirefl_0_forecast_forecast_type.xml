@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="forecast_type" table="x_2266053_hirefl_0_forecast" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>7098ea5ff5ee445c821cda2e3eef8304</sys_id>
+      <element>forecast_type</element>
+      <sys_update_name>sys_choice_x_2266053_hirefl_0_forecast_forecast_type</sys_update_name>
+      <name>x_2266053_hirefl_0_forecast</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_package display_value="x_2266053_hirefl_0" source="72a24cdcc3885310871fb0cc05013142">72a24cdcc3885310871fb0cc05013142</sys_package>
+      <sys_name>forecast_type</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>ef18c0534348431b96f1c8c0f9c779ed</sys_id>
+      <name>x_2266053_hirefl_0_forecast</name>
+      <element>forecast_type</element>
+      <label>T-Minus 14</label>
+      <value>t_minus_14</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>3994b858d24d419182770a250311ffd4</sys_id>
+      <name>x_2266053_hirefl_0_forecast</name>
+      <element>forecast_type</element>
+      <label>Weekly</label>
+      <value>weekly</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>e9d838f28f804684affad96373e2a510</sys_id>
+      <name>x_2266053_hirefl_0_forecast</name>
+      <element>forecast_type</element>
+      <label>On Demand</label>
+      <value>on_demand</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>

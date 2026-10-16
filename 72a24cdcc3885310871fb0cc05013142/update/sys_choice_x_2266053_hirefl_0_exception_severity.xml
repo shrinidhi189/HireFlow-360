@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="severity" table="x_2266053_hirefl_0_exception" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>6e4eb566b5894aa5a4ca59e3168297c8</sys_id>
+      <element>severity</element>
+      <sys_update_name>sys_choice_x_2266053_hirefl_0_exception_severity</sys_update_name>
+      <name>x_2266053_hirefl_0_exception</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
+      <sys_package display_value="x_2266053_hirefl_0" source="72a24cdcc3885310871fb0cc05013142">72a24cdcc3885310871fb0cc05013142</sys_package>
+      <sys_name>severity</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>785f68c6d03a4c91a70c87db5c666eab</sys_id>
+      <name>x_2266053_hirefl_0_exception</name>
+      <element>severity</element>
+      <label>Low</label>
+      <value>low</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>35ea535e6e484f3ca7e6ed5fb030c117</sys_id>
+      <name>x_2266053_hirefl_0_exception</name>
+      <element>severity</element>
+      <label>Medium</label>
+      <value>medium</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>aea97eef4051478dab8c722c704ac35a</sys_id>
+      <name>x_2266053_hirefl_0_exception</name>
+      <element>severity</element>
+      <label>High</label>
+      <value>high</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>74f94de0d19a43908c15e858fe1f00fa</sys_id>
+      <name>x_2266053_hirefl_0_exception</name>
+      <element>severity</element>
+      <label>Critical</label>
+      <value>critical</value>
+      <sequence>4</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>
