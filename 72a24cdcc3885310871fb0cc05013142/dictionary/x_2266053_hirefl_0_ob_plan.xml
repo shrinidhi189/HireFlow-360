@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="982cee84dec241eeb5ca13a8c8b36978" label="Onboarding Plan" name="x_2266053_hirefl_0_ob_plan" type="collection">
+        <element label="Created By" name="created_by" reference="sys_user" type="reference"/>
+        <element label="Day 1 Cleared" name="day1_cleared" type="boolean"/>
+        <element default="draft" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="Draft" sequence="1" value="draft"/>
+                <element inactive_on_update="false" label="Active" sequence="2" value="active"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="4" value="cancelled"/>
+            </choice>
+        </element>
+        <element label="Readiness Score" name="readiness_score" type="decimal"/>
+        <element label="Mandatory Gate Passed" name="mandatory_gate_passed" type="boolean"/>
+        <element default="not_assessed" label="Readiness Status" name="readiness_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="On Track" sequence="2" value="on_track"/>
+                <element inactive_on_update="false" label="Not Assessed" sequence="1" value="not_assessed"/>
+                <element inactive_on_update="false" label="Critical" sequence="4" value="critical"/>
+                <element inactive_on_update="false" label="At Risk" sequence="3" value="at_risk"/>
+                <element inactive_on_update="false" label="Failed" sequence="6" value="failed"/>
+                <element inactive_on_update="false" label="Ready" sequence="5" value="ready"/>
+            </choice>
+        </element>
+        <element label="Target Date" name="target_date" type="glide_date"/>
+        <element label="Joiner" mandatory="true" name="joiner" reference="x_2266053_hirefl_0_joiner" type="reference"/>
+        <element display="true" label="Plan Name" name="plan_name" type="string"/>
+        <element default="0" label="Completed Tasks" name="completed_tasks" type="integer"/>
+        <element default="0" label="Total Tasks" name="total_tasks" type="integer"/>
+        <index name="index">
+            <element name="created_by"/>
+        </index>
+        <index name="index2">
+            <element name="joiner"/>
+        </index>
+    </element>
+</database>

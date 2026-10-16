@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="1ccd23f57c8e42eab8158d8a56759fd7" label="Joiner" name="x_2266053_hirefl_0_joiner" type="collection">
+        <element label="First Name" mandatory="true" name="first_name" type="string"/>
+        <element default="registered" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Confirmed" sequence="7" value="confirmed"/>
+                <element inactive_on_update="false" label="Day 1 Failed" sequence="4" value="day1_failed"/>
+                <element inactive_on_update="false" label="On Probation" sequence="6" value="on_probation"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="in_progress"/>
+                <element inactive_on_update="false" label="Active" sequence="5" value="active"/>
+                <element inactive_on_update="false" label="Day 1 Ready" sequence="3" value="day1_ready"/>
+                <element inactive_on_update="false" label="Separated" sequence="8" value="separated"/>
+                <element inactive_on_update="false" label="Registered" sequence="1" value="registered"/>
+            </choice>
+        </element>
+        <element default="manual" label="Source" name="source" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CSV Import" sequence="2" value="csv_import"/>
+                <element inactive_on_update="false" label="Manual" sequence="1" value="manual"/>
+                <element inactive_on_update="false" label="Integration" sequence="3" value="integration"/>
+            </choice>
+        </element>
+        <element display="true" label="Last Name" mandatory="true" name="last_name" type="string"/>
+        <element label="Phone" name="phone" type="string"/>
+        <element label="Manager" name="manager" reference="sys_user" type="reference"/>
+        <element label="Department" name="department" type="string"/>
+        <element label="Joining Date" mandatory="true" name="joining_date" type="glide_date"/>
+        <element label="Batch ID" name="batch_id" type="string"/>
+        <element label="Personal Email" name="personal_email" type="email"/>
+        <element label="Role" mandatory="true" name="role" type="string"/>
+        <element label="Email" mandatory="true" name="email" type="email"/>
+        <element label="Duplicate Flag" name="duplicate_flag" type="boolean"/>
+        <element label="Employee ID" name="employee_id" type="string"/>
+        <element label="Location" name="location" type="string"/>
+        <element default="pending" label="Offer Status" name="offer_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Accepted" sequence="2" value="accepted"/>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="pending"/>
+                <element inactive_on_update="false" label="Revoked" sequence="4" value="revoked"/>
+                <element inactive_on_update="false" label="Withdrawn" sequence="3" value="withdrawn"/>
+            </choice>
+        </element>
+        <element label="HR Coordinator" name="hr_coordinator" reference="sys_user" type="reference"/>
+        <element label="Notes" max_length="4000" name="notes" type="multi_two_lines"/>
+        <index name="index">
+            <element name="hr_coordinator"/>
+        </index>
+        <index name="index2">
+            <element name="manager"/>
+        </index>
+    </element>
+</database>

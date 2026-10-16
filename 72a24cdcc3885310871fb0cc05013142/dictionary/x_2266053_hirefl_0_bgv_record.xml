@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="5a90c4bd2bc341cda4211db8d1c8aea9" label="BGV Record" name="x_2266053_hirefl_0_bgv_record" type="collection">
+        <element label="Vendor" name="vendor" type="string"/>
+        <element label="Verification Type" mandatory="true" name="verification_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Address" sequence="5" value="address"/>
+                <element inactive_on_update="false" label="Education" sequence="2" value="education"/>
+                <element inactive_on_update="false" label="Criminal" sequence="4" value="criminal"/>
+                <element inactive_on_update="false" label="Employment" sequence="3" value="employment"/>
+                <element inactive_on_update="false" label="Identity" sequence="1" value="identity"/>
+                <element inactive_on_update="false" label="Reference" sequence="6" value="reference"/>
+            </choice>
+        </element>
+        <element label="Joiner" mandatory="true" name="joiner" reference="x_2266053_hirefl_0_joiner" type="reference"/>
+        <element label="Result" max_length="2000" name="result" type="multi_two_lines"/>
+        <element default="0" label="Reminder Count" name="reminder_count" type="integer"/>
+        <element label="Last Reminder Date" name="last_reminder_date" type="glide_date_time"/>
+        <element label="Escalation Date" name="escalation_date" type="glide_date_time"/>
+        <element label="Escalated" name="escalated" type="boolean"/>
+        <element default="not_started" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Started" sequence="1" value="not_started"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="in_progress"/>
+                <element inactive_on_update="false" label="Discrepancy" sequence="4" value="discrepancy"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="Failed" sequence="5" value="failed"/>
+            </choice>
+        </element>
+        <element label="Initiated Date" name="initiated_date" type="glide_date_time"/>
+        <element label="Completed Date" name="completed_date" type="glide_date_time"/>
+        <element label="Discrepancy Details" max_length="2000" name="discrepancy_details" type="multi_two_lines"/>
+        <element label="Evidence" name="evidence" reference="x_2266053_hirefl_0_evidence" type="reference"/>
+        <index name="index">
+            <element name="evidence"/>
+        </index>
+        <index name="index2">
+            <element name="joiner"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ee0b3f06e0634b40b9d09d5c6e3a1212" sys_domain="global" table="x_2266053_hirefl_0_ob_policy" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b42a9f366dc407bb2c9d1fe4ddef60c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2266053_hirefl_0_ob_policy" name="x_2266053_hirefl_0_ob_policy" sys_domain="global" view="Default view">ee0b3f06e0634b40b9d09d5c6e3a1212</sys_ui_form>
+            <sys_ui_section caption="Onboarding Policy" display_value="Onboarding Policy" name="x_2266053_hirefl_0_ob_policy" sys_domain="global" view="Default view">be2b1a493f3c442f97e8923b145182e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2266053_hirefl_0_ob_policy</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee0b3f06e0634b40b9d09d5c6e3a1212</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2266053_hirefl_0_ob_policy</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HireFlow 360" source="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HireFlow 360">72a24cdcc3885310871fb0cc05013142</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ee0b3f06e0634b40b9d09d5c6e3a1212</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

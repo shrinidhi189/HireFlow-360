@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="43d23107a9c041608cd7ffa654d86430" label="Recovery Action" name="x_2266053_hirefl_0_recov_act" type="collection">
+        <element default="true" label="Requires Human Approval" name="requires_human_approval" type="boolean"/>
+        <element label="Exception" mandatory="true" name="exception" reference="x_2266053_hirefl_0_exception" type="reference"/>
+        <element label="Executed Date" name="executed_date" type="glide_date_time"/>
+        <element label="Execution Notes" max_length="2000" name="execution_notes" type="multi_two_lines"/>
+        <element default="proposed" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="3" value="approved"/>
+                <element inactive_on_update="false" label="Proposed" sequence="1" value="proposed"/>
+                <element inactive_on_update="false" label="Pending Approval" sequence="2" value="pending_approval"/>
+                <element inactive_on_update="false" label="Rejected" sequence="4" value="rejected"/>
+                <element inactive_on_update="false" label="Executed" sequence="5" value="executed"/>
+                <element inactive_on_update="false" label="Failed" sequence="6" value="failed"/>
+            </choice>
+        </element>
+        <element label="Action Type" mandatory="true" name="action_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Substitute" sequence="3" value="substitute"/>
+                <element inactive_on_update="false" label="Waive" sequence="6" value="waive"/>
+                <element inactive_on_update="false" label="Reassign" sequence="1" value="reassign"/>
+                <element inactive_on_update="false" label="Escalate" sequence="4" value="escalate"/>
+                <element inactive_on_update="false" label="Reschedule" sequence="2" value="reschedule"/>
+                <element inactive_on_update="false" label="Manual Override" sequence="5" value="manual_override"/>
+            </choice>
+        </element>
+        <element label="Proposed By" name="proposed_by" reference="sys_user" type="reference"/>
+        <element label="Joiner" name="joiner" reference="x_2266053_hirefl_0_joiner" type="reference"/>
+        <element label="Approval Date" name="approval_date" type="glide_date_time"/>
+        <element label="Description" mandatory="true" max_length="4000" name="description" type="multi_two_lines"/>
+        <element label="Approved By" name="approved_by" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="approved_by"/>
+        </index>
+        <index name="index2">
+            <element name="exception"/>
+        </index>
+        <index name="index3">
+            <element name="joiner"/>
+        </index>
+        <index name="index4">
+            <element name="proposed_by"/>
+        </index>
+    </element>
+</database>

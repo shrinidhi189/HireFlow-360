@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="83b6b87587a046c1b65eea9c01ea3f1e" label="SLA Definition" name="x_2266053_hirefl_0_sla_def" type="collection">
+        <element label="Description" max_length="1000" name="description" type="multi_two_lines"/>
+        <element label="Condition Value" name="condition_value" type="string"/>
+        <element display="true" label="Name" mandatory="true" name="name" type="string"/>
+        <element label="Escalation Group" name="escalation_group" reference="sys_user_group" type="reference"/>
+        <element default="2" label="Warning Days" name="warning_days" type="integer"/>
+        <element label="Table Name" mandatory="true" name="table_name" type="string"/>
+        <element label="Duration Days" mandatory="true" name="duration_days" type="integer"/>
+        <element default="true" label="Active" name="active" type="boolean"/>
+        <element label="Condition Field" name="condition_field" type="string"/>
+        <index name="index">
+            <element name="escalation_group"/>
+        </index>
+    </element>
+</database>

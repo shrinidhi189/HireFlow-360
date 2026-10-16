@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="35ed1fa865a5426285252ccf9aa11343" label="Onboarding Task" name="x_2266053_hirefl_0_ob_task" type="collection">
+        <element label="Assigned To" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="SLA Breached" name="sla_breached" type="boolean"/>
+        <element display="true" label="Name" mandatory="true" name="name" type="string"/>
+        <element label="Template" name="template" reference="x_2266053_hirefl_0_task_tmpl" type="reference"/>
+        <element default="10" label="Weight" name="weight" type="integer"/>
+        <element label="Joiner" mandatory="true" name="joiner" reference="x_2266053_hirefl_0_joiner" type="reference"/>
+        <element label="Assignment Group" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <element label="Completed Date" name="completed_date" type="glide_date_time"/>
+        <element label="Plan" mandatory="true" name="plan" reference="x_2266053_hirefl_0_ob_plan" type="reference"/>
+        <element default="medium" label="Priority" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Medium" sequence="3" value="medium"/>
+                <element inactive_on_update="false" label="Low" sequence="4" value="low"/>
+                <element inactive_on_update="false" label="Critical" sequence="1" value="critical"/>
+                <element inactive_on_update="false" label="High" sequence="2" value="high"/>
+            </choice>
+        </element>
+        <element default="pending" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="in_progress"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="5" value="cancelled"/>
+                <element inactive_on_update="false" label="Blocked" sequence="4" value="blocked"/>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="pending"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="4000" name="description" type="multi_two_lines"/>
+        <element label="Is Mandatory" name="is_mandatory" type="boolean"/>
+        <element label="Category" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Training" sequence="4" value="training"/>
+                <element inactive_on_update="false" label="Induction" sequence="7" value="induction"/>
+                <element inactive_on_update="false" label="IT Setup" sequence="1" value="it_setup"/>
+                <element inactive_on_update="false" label="Documentation" sequence="3" value="documentation"/>
+                <element inactive_on_update="false" label="HR Admin" sequence="8" value="hr_admin"/>
+                <element inactive_on_update="false" label="Compliance" sequence="5" value="compliance"/>
+                <element inactive_on_update="false" label="BGV" sequence="6" value="bgv"/>
+                <element inactive_on_update="false" label="Access Provisioning" sequence="2" value="access_provisioning"/>
+            </choice>
+        </element>
+        <element label="Blocker Reason" max_length="1000" name="blocker_reason" type="multi_two_lines"/>
+        <element label="Due Date" name="due_date" type="glide_date"/>
+        <element label="Sequence Order" name="sequence_order" type="integer"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index3">
+            <element name="joiner"/>
+        </index>
+        <index name="index4">
+            <element name="plan"/>
+        </index>
+        <index name="index5">
+            <element name="template"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="6f47474caa054abcab72c0fb3378a391" label="Probation" name="x_2266053_hirefl_0_probation" type="collection">
+        <element label="Checkpoint 1 Date" name="checkpoint_1_date" type="glide_date"/>
+        <element label="Training Completed" name="training_completed" type="boolean"/>
+        <element label="Checkpoint 2 Date" name="checkpoint_2_date" type="glide_date"/>
+        <element default="not_started" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="On Probation" sequence="4" value="on_probation"/>
+                <element inactive_on_update="false" label="Training" sequence="3" value="training"/>
+                <element inactive_on_update="false" label="Extended" sequence="6" value="extended"/>
+                <element inactive_on_update="false" label="Not Started" sequence="1" value="not_started"/>
+                <element inactive_on_update="false" label="Separated" sequence="7" value="separated"/>
+                <element inactive_on_update="false" label="Induction" sequence="2" value="induction"/>
+                <element inactive_on_update="false" label="Confirmed" sequence="5" value="confirmed"/>
+            </choice>
+        </element>
+        <element default="pending" label="Checkpoint 2 Status" name="checkpoint_2_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Passed" sequence="2" value="passed"/>
+                <element inactive_on_update="false" label="Concern" sequence="3" value="concern"/>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="pending"/>
+            </choice>
+        </element>
+        <element label="Plan" name="plan" reference="x_2266053_hirefl_0_ob_plan" type="reference"/>
+        <element label="Joiner" mandatory="true" name="joiner" reference="x_2266053_hirefl_0_joiner" type="reference"/>
+        <element label="Allocation Eligible" name="allocation_eligible" type="boolean"/>
+        <element default="pending" label="Checkpoint 1 Status" name="checkpoint_1_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Passed" sequence="2" value="passed"/>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="pending"/>
+                <element inactive_on_update="false" label="Concern" sequence="3" value="concern"/>
+            </choice>
+        </element>
+        <element label="End Date" name="end_date" type="glide_date"/>
+        <element label="Confirmation Date" name="confirmation_date" type="glide_date"/>
+        <element label="Separation Date" name="separation_date" type="glide_date"/>
+        <element label="Allocation Date" name="allocation_date" type="glide_date"/>
+        <element label="Induction Completed" name="induction_completed" type="boolean"/>
+        <element label="Start Date" name="start_date" type="glide_date"/>
+        <element label="Separation Reason" max_length="2000" name="separation_reason" type="multi_two_lines"/>
+        <element label="Notes" max_length="4000" name="notes" type="multi_two_lines"/>
+        <index name="index">
+            <element name="joiner"/>
+        </index>
+        <index name="index2">
+            <element name="plan"/>
+        </index>
+    </element>
+</database>

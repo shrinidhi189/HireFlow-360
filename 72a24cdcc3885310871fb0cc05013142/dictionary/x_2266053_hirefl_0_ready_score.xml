@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="a70a826cf6a64e719ad30ddee57c7901" label="Readiness Score" name="x_2266053_hirefl_0_ready_score" type="collection">
+        <element default="0" label="Mandatory Items Total" name="mandatory_items_total" type="integer"/>
+        <element label="Mandatory Gate Passed" name="mandatory_gate_passed" type="boolean"/>
+        <element label="Overall Score" name="overall_score" type="decimal"/>
+        <element label="Weighted Score" name="weighted_score" type="decimal"/>
+        <element default="0" label="Mandatory Items Completed" name="mandatory_items_completed" type="integer"/>
+        <element label="Joiner" mandatory="true" name="joiner" reference="x_2266053_hirefl_0_joiner" type="reference"/>
+        <element label="Score Details" max_length="4000" name="score_details" type="multi_two_lines"/>
+        <element label="Assessed By" name="assessed_by" type="string"/>
+        <element label="Plan" mandatory="true" name="plan" reference="x_2266053_hirefl_0_ob_plan" type="reference"/>
+        <element label="Assessment Date" name="assessment_date" type="glide_date_time"/>
+        <element default="not_assessed" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="At Risk" sequence="3" value="at_risk"/>
+                <element inactive_on_update="false" label="Critical" sequence="4" value="critical"/>
+                <element inactive_on_update="false" label="Ready" sequence="5" value="ready"/>
+                <element inactive_on_update="false" label="Not Assessed" sequence="1" value="not_assessed"/>
+                <element inactive_on_update="false" label="Failed" sequence="6" value="failed"/>
+                <element inactive_on_update="false" label="On Track" sequence="2" value="on_track"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="joiner"/>
+        </index>
+        <index name="index2">
+            <element name="plan"/>
+        </index>
+    </element>
+</database>
