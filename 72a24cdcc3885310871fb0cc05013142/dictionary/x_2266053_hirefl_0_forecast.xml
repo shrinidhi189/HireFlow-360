@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="76e27ef65d7047e695b577e9afa680b8" label="Forecast" name="x_2266053_hirefl_0_forecast" type="collection">
+        <element label="Delay Reasons" max_length="4000" name="delay_reasons" type="multi_two_lines"/>
+        <element label="Recommended Actions" max_length="4000" name="recommended_actions" type="multi_two_lines"/>
+        <element label="Confidence Score" name="confidence_score" type="decimal"/>
+        <element default="none" label="Risk Level" name="risk_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="2" value="low"/>
+                <element inactive_on_update="false" label="Medium" sequence="3" value="medium"/>
+                <element inactive_on_update="false" label="High" sequence="4" value="high"/>
+                <element inactive_on_update="false" label="None" sequence="1" value="none"/>
+                <element inactive_on_update="false" label="Critical" sequence="5" value="critical"/>
+            </choice>
+        </element>
+        <element default="0" label="Predicted Delay Days" name="predicted_delay_days" type="integer"/>
+        <element label="Plan" mandatory="true" name="plan" reference="x_2266053_hirefl_0_ob_plan" type="reference"/>
+        <element label="Forecast Date" name="forecast_date" type="glide_date_time"/>
+        <element label="Joiner" mandatory="true" name="joiner" reference="x_2266053_hirefl_0_joiner" type="reference"/>
+        <element default="true" label="Is Latest" name="is_latest" type="boolean"/>
+        <element default="t_minus_14" label="Forecast Type" name="forecast_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Weekly" sequence="2" value="weekly"/>
+                <element inactive_on_update="false" label="On Demand" sequence="3" value="on_demand"/>
+                <element inactive_on_update="false" label="T-Minus 14" sequence="1" value="t_minus_14"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="joiner"/>
+        </index>
+        <index name="index2">
+            <element name="plan"/>
+        </index>
+    </element>
+</database>

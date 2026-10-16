@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-  <sys_ui_form_sections form_id="b71acc77607f4a9ab9d74b11fe7cd38b" sys_domain="global" table="x_2266053_hirefl_0_ob_task">
-    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <position>0</position>
-      <sys_id>3e4d07280b124ddabed19a61a80f4d55</sys_id>
-      <sys_ui_form display_value="x_2266053_hirefl_0_ob_task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">b71acc77607f4a9ab9d74b11fe7cd38b</sys_ui_form>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-    </sys_ui_form_section>
-    <sys_ui_form action="INSERT_OR_UPDATE" apply_defaults="true">
-      <name>x_2266053_hirefl_0_ob_task</name>
-      <roles/>
-      <sys_id>b71acc77607f4a9ab9d74b11fe7cd38b</sys_id>
-      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
-      <sys_user/>
-      <view display_value="Default view" name="NULL">Default view</view>
-      <view_name/>
-    </sys_ui_form>
-  </sys_ui_form_sections>
+    <sys_ui_form_sections form_id="b71acc77607f4a9ab9d74b11fe7cd38b" sys_domain="global" table="x_2266053_hirefl_0_ob_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e4d07280b124ddabed19a61a80f4d55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2266053_hirefl_0_ob_task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">b71acc77607f4a9ab9d74b11fe7cd38b</sys_ui_form>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2266053_hirefl_0_ob_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b71acc77607f4a9ab9d74b11fe7cd38b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2266053_hirefl_0_ob_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HireFlow 360" source="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HireFlow 360">72a24cdcc3885310871fb0cc05013142</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b71acc77607f4a9ab9d74b11fe7cd38b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
 </record_update>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="2d2f728342034ec4b7ace7f08c10e0a2" label="Audit Log" name="x_2266053_hirefl_0_audit_log" type="collection">
+        <element label="Performed Date" name="performed_date" type="glide_date_time"/>
+        <element label="Field Changed" name="field_changed" type="string"/>
+        <element label="Plan" name="plan" reference="x_2266053_hirefl_0_ob_plan" type="reference"/>
+        <element label="Record ID" mandatory="true" name="record_id" type="string"/>
+        <element label="Old Value" max_length="2000" name="old_value" type="multi_two_lines"/>
+        <element label="Joiner" name="joiner" reference="x_2266053_hirefl_0_joiner" type="reference"/>
+        <element label="Details" max_length="4000" name="details" type="multi_two_lines"/>
+        <element label="New Value" max_length="2000" name="new_value" type="multi_two_lines"/>
+        <element label="Action" mandatory="true" name="action" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Exception" sequence="7" value="exception"/>
+                <element inactive_on_update="false" label="Escalation" sequence="6" value="escalation"/>
+                <element inactive_on_update="false" label="Approval" sequence="5" value="approval"/>
+                <element inactive_on_update="false" label="Scoring" sequence="8" value="scoring"/>
+                <element inactive_on_update="false" label="Gate Check" sequence="4" value="gate_check"/>
+                <element inactive_on_update="false" label="Update" sequence="2" value="update"/>
+                <element inactive_on_update="false" label="State Change" sequence="3" value="state_change"/>
+                <element inactive_on_update="false" label="Create" sequence="1" value="create"/>
+            </choice>
+        </element>
+        <element label="Performed By" name="performed_by" reference="sys_user" type="reference"/>
+        <element label="Record Table" mandatory="true" name="record_table" type="string"/>
+        <index name="index">
+            <element name="joiner"/>
+        </index>
+        <index name="index2">
+            <element name="performed_by"/>
+        </index>
+        <index name="index3">
+            <element name="plan"/>
+        </index>
+    </element>
+</database>

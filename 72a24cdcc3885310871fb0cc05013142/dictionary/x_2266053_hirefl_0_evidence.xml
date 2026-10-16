@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="05f55d35ea3e4b7c951a434e4762dece" label="Evidence" name="x_2266053_hirefl_0_evidence" type="collection">
+        <element label="Rejection Reason" name="rejection_reason" type="string"/>
+        <element display="true" label="Name" mandatory="true" name="name" type="string"/>
+        <element label="Joiner" mandatory="true" name="joiner" reference="x_2266053_hirefl_0_joiner" type="reference"/>
+        <element label="Description" max_length="1000" name="description" type="multi_two_lines"/>
+        <element label="Evidence Type" name="evidence_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Employment" sequence="4" value="employment"/>
+                <element inactive_on_update="false" label="Education" sequence="3" value="education"/>
+                <element inactive_on_update="false" label="BGV Report" sequence="6" value="bgv_report"/>
+                <element inactive_on_update="false" label="Policy Acknowledgment" sequence="7" value="policy_acknowledgment"/>
+                <element inactive_on_update="false" label="Certification" sequence="5" value="certification"/>
+                <element inactive_on_update="false" label="Address Proof" sequence="2" value="address_proof"/>
+                <element inactive_on_update="false" label="Other" sequence="8" value="other"/>
+                <element inactive_on_update="false" label="Identity Proof" sequence="1" value="identity_proof"/>
+            </choice>
+        </element>
+        <element label="Submitted Date" name="submitted_date" type="glide_date_time"/>
+        <element label="Verified By" name="verified_by" reference="sys_user" type="reference"/>
+        <element label="Expiry Date" name="expiry_date" type="glide_date"/>
+        <element label="File Reference" name="file_reference" type="string"/>
+        <element label="Verified Date" name="verified_date" type="glide_date_time"/>
+        <element label="Task" name="task" reference="x_2266053_hirefl_0_ob_task" type="reference"/>
+        <element default="pending" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="pending"/>
+                <element inactive_on_update="false" label="Expired" sequence="5" value="expired"/>
+                <element inactive_on_update="false" label="Verified" sequence="3" value="verified"/>
+                <element inactive_on_update="false" label="Rejected" sequence="4" value="rejected"/>
+                <element inactive_on_update="false" label="Submitted" sequence="2" value="submitted"/>
+            </choice>
+        </element>
+        <element label="Is Mandatory" name="is_mandatory" type="boolean"/>
+        <index name="index">
+            <element name="joiner"/>
+        </index>
+        <index name="index2">
+            <element name="task"/>
+        </index>
+        <index name="index3">
+            <element name="verified_by"/>
+        </index>
+    </element>
+</database>

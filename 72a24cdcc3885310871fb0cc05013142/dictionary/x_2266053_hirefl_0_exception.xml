@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="0d0251035f2249d0857fbd98668aaeb7" label="Exception" name="x_2266053_hirefl_0_exception" type="collection">
+        <element label="Resolved Date" name="resolved_date" type="glide_date_time"/>
+        <element default="medium" label="Severity" name="severity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Medium" sequence="2" value="medium"/>
+                <element inactive_on_update="false" label="Critical" sequence="4" value="critical"/>
+                <element inactive_on_update="false" label="Low" sequence="1" value="low"/>
+                <element inactive_on_update="false" label="High" sequence="3" value="high"/>
+            </choice>
+        </element>
+        <element label="Exception Type" mandatory="true" name="exception_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="E1 - Device Unavailable" sequence="1" value="e1_device_unavailable"/>
+                <element inactive_on_update="false" label="E4 - Schedule Change" sequence="4" value="e4_schedule_change"/>
+                <element inactive_on_update="false" label="E3 - BGV Discrepancy" sequence="3" value="e3_bgv_discrepancy"/>
+                <element inactive_on_update="false" label="E5 - Integration Failure" sequence="5" value="e5_integration_failure"/>
+                <element inactive_on_update="false" label="E2 - Access Delayed" sequence="2" value="e2_access_delayed"/>
+                <element inactive_on_update="false" label="E6 - Offer Withdrawn" sequence="6" value="e6_offer_withdrawn"/>
+            </choice>
+        </element>
+        <element label="Requires Approval" name="requires_approval" type="boolean"/>
+        <element label="Raised Date" name="raised_date" type="glide_date_time"/>
+        <element label="Resolved By" name="resolved_by" reference="sys_user" type="reference"/>
+        <element label="Plan" name="plan" reference="x_2266053_hirefl_0_ob_plan" type="reference"/>
+        <element default="open" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="1" value="open"/>
+                <element inactive_on_update="false" label="Investigating" sequence="2" value="investigating"/>
+                <element inactive_on_update="false" label="Closed" sequence="5" value="closed"/>
+                <element inactive_on_update="false" label="Escalated" sequence="4" value="escalated"/>
+                <element inactive_on_update="false" label="Resolved" sequence="3" value="resolved"/>
+            </choice>
+        </element>
+        <element label="Task" name="task" reference="x_2266053_hirefl_0_ob_task" type="reference"/>
+        <element label="Raised By" name="raised_by" reference="sys_user" type="reference"/>
+        <element label="Escalated To" name="escalated_to" reference="sys_user" type="reference"/>
+        <element label="Resolution" max_length="4000" name="resolution" type="multi_two_lines"/>
+        <element label="Impact Description" max_length="2000" name="impact_description" type="multi_two_lines"/>
+        <element label="Joiner" mandatory="true" name="joiner" reference="x_2266053_hirefl_0_joiner" type="reference"/>
+        <element label="Description" mandatory="true" max_length="4000" name="description" type="multi_two_lines"/>
+        <index name="index">
+            <element name="escalated_to"/>
+        </index>
+        <index name="index2">
+            <element name="joiner"/>
+        </index>
+        <index name="index3">
+            <element name="plan"/>
+        </index>
+        <index name="index4">
+            <element name="raised_by"/>
+        </index>
+        <index name="index5">
+            <element name="resolved_by"/>
+        </index>
+        <index name="index6">
+            <element name="task"/>
+        </index>
+    </element>
+</database>

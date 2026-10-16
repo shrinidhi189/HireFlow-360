@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="exception_type" table="x_2266053_hirefl_0_exception" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>exception_type</element>
+            <name>x_2266053_hirefl_0_exception</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:22:48</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>exception_type</sys_name>
+            <sys_package display_value="HireFlow 360" source="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HireFlow 360">72a24cdcc3885310871fb0cc05013142</sys_scope>
+            <sys_update_name>sys_choice_x_2266053_hirefl_0_exception_exception_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:22:48</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>exception_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E1 - Device Unavailable</label>
+            <language>en</language>
+            <name>x_2266053_hirefl_0_exception</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:22:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:22:48</sys_updated_on>
+            <value>e1_device_unavailable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>exception_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E2 - Access Delayed</label>
+            <language>en</language>
+            <name>x_2266053_hirefl_0_exception</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:22:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:22:48</sys_updated_on>
+            <value>e2_access_delayed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>exception_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E3 - BGV Discrepancy</label>
+            <language>en</language>
+            <name>x_2266053_hirefl_0_exception</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:22:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:22:48</sys_updated_on>
+            <value>e3_bgv_discrepancy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>exception_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E4 - Schedule Change</label>
+            <language>en</language>
+            <name>x_2266053_hirefl_0_exception</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:22:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:22:48</sys_updated_on>
+            <value>e4_schedule_change</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>exception_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E5 - Integration Failure</label>
+            <language>en</language>
+            <name>x_2266053_hirefl_0_exception</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:22:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:22:48</sys_updated_on>
+            <value>e5_integration_failure</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>exception_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E6 - Offer Withdrawn</label>
+            <language>en</language>
+            <name>x_2266053_hirefl_0_exception</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:22:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:22:48</sys_updated_on>
+            <value>e6_offer_withdrawn</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

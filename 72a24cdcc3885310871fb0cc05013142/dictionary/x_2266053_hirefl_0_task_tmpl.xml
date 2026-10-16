@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="6e471c28fd83483e8270378a12d50368" label="Task Template" name="x_2266053_hirefl_0_task_tmpl" type="collection">
+        <element label="Category" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="BGV" sequence="6" value="bgv"/>
+                <element inactive_on_update="false" label="IT Setup" sequence="1" value="it_setup"/>
+                <element inactive_on_update="false" label="Compliance" sequence="5" value="compliance"/>
+                <element inactive_on_update="false" label="Training" sequence="4" value="training"/>
+                <element inactive_on_update="false" label="HR Admin" sequence="8" value="hr_admin"/>
+                <element inactive_on_update="false" label="Access Provisioning" sequence="2" value="access_provisioning"/>
+                <element inactive_on_update="false" label="Induction" sequence="7" value="induction"/>
+                <element inactive_on_update="false" label="Documentation" sequence="3" value="documentation"/>
+            </choice>
+        </element>
+        <element label="Location Applicable" name="location_applicable" type="string"/>
+        <element label="Default Assignee Group" name="default_assignee_group" reference="sys_user_group" type="reference"/>
+        <element default="10" label="Weight" name="weight" type="integer"/>
+        <element label="Description" max_length="1000" name="description" type="multi_two_lines"/>
+        <element label="Is Mandatory" name="is_mandatory" type="boolean"/>
+        <element default="true" label="Active" name="active" type="boolean"/>
+        <element label="Department Applicable" name="department_applicable" type="string"/>
+        <element display="true" label="Name" mandatory="true" name="name" type="string"/>
+        <element label="Policy" name="policy" reference="x_2266053_hirefl_0_ob_policy" type="reference"/>
+        <element label="Sequence Order" name="sequence_order" type="integer"/>
+        <element label="Role Applicable" name="role_applicable" type="string"/>
+        <element default="3" label="SLA Days" name="sla_days" type="integer"/>
+        <index name="index">
+            <element name="default_assignee_group"/>
+        </index>
+        <index name="index2">
+            <element name="policy"/>
+        </index>
+    </element>
+</database>

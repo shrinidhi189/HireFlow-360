@@ -1,197 +1,309 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-  <sys_ui_section caption="Onboarding Task" section_id="052563c6e23c4c79a797dd1e8d7ffdaa" sys_domain="global" table="x_2266053_hirefl_0_ob_task" view="">
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.begin_split</element>
-      <position>0</position>
-      <sys_id>bcd02116b9494f22884147825e18acb7</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type>.begin_split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>plan</element>
-      <position>1</position>
-      <sys_id>623670da30af42d9aace08bb99ad7cac</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>joiner</element>
-      <position>2</position>
-      <sys_id>cfaddd617d504d778653a3bc5a565755</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>name</element>
-      <position>3</position>
-      <sys_id>6c07b7d718184e8886a14be399206927</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>category</element>
-      <position>4</position>
-      <sys_id>7f96515c2267423086f77a439c2ca392</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>assigned_to</element>
-      <position>5</position>
-      <sys_id>cbcb59fb87524d55841adc3882804a43</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>status</element>
-      <position>6</position>
-      <sys_id>cbf7ee5558e24c088193226af20e45f0</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>due_date</element>
-      <position>7</position>
-      <sys_id>7dea541a12114d67af371b2526a64beb</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>is_mandatory</element>
-      <position>8</position>
-      <sys_id>c532ad414d74497f8ca30554c438c9dd</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>sequence_order</element>
-      <position>9</position>
-      <sys_id>0232e841506447b883a4af8769e79619</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>sla_breached</element>
-      <position>10</position>
-      <sys_id>a6223844be8144cf93dbdca83a27f5da</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.split</element>
-      <position>11</position>
-      <sys_id>3a5a5cedf4d14827a496e256510cf38f</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type>.split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>template</element>
-      <position>12</position>
-      <sys_id>daaac9b8b5af4186ab91c7380678b9bc</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>assignment_group</element>
-      <position>13</position>
-      <sys_id>d139ecacfb84460a92e2e45c28b8648a</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>priority</element>
-      <position>14</position>
-      <sys_id>446c5325bfc64437a723bde5db924bc0</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>completed_date</element>
-      <position>15</position>
-      <sys_id>4df6e7395eba48ef9d0b183da4a8cd0c</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>weight</element>
-      <position>16</position>
-      <sys_id>cbc014a1c24f4c1fb7090e1c1303a5ed</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.end_split</element>
-      <position>17</position>
-      <sys_id>a0539713559541f6884e138e766e8d1a</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type>.end_split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>description</element>
-      <position>18</position>
-      <sys_id>d25329831fcc4e8c9888df6340719ba4</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>blocker_reason</element>
-      <position>19</position>
-      <sys_id>7ba22642b4f543538b3639d01daec117</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <caption>Onboarding Task</caption>
-      <header>false</header>
-      <name>x_2266053_hirefl_0_ob_task</name>
-      <roles/>
-      <sys_domain>global</sys_domain>
-      <sys_id>052563c6e23c4c79a797dd1e8d7ffdaa</sys_id>
-      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
-      <sys_user/>
-      <title>false</title>
-      <view_name/>
-      <view display_value="Default view" name="NULL">Default view</view>
+    <sys_ui_section caption="Onboarding Task" section_id="052563c6e23c4c79a797dd1e8d7ffdaa" sys_domain="global" table="x_2266053_hirefl_0_ob_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>bcd02116b9494f22884147825e18acb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plan</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>623670da30af42d9aace08bb99ad7cac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>joiner</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>cfaddd617d504d778653a3bc5a565755</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>6c07b7d718184e8886a14be399206927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>7f96515c2267423086f77a439c2ca392</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>cbcb59fb87524d55841adc3882804a43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>cbf7ee5558e24c088193226af20e45f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>7dea541a12114d67af371b2526a64beb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>is_mandatory</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>c532ad414d74497f8ca30554c438c9dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sequence_order</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>0232e841506447b883a4af8769e79619</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sla_breached</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>a6223844be8144cf93dbdca83a27f5da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>3a5a5cedf4d14827a496e256510cf38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>daaac9b8b5af4186ab91c7380678b9bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>d139ecacfb84460a92e2e45c28b8648a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>446c5325bfc64437a723bde5db924bc0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>completed_date</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>4df6e7395eba48ef9d0b183da4a8cd0c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>weight</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>cbc014a1c24f4c1fb7090e1c1303a5ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>a0539713559541f6884e138e766e8d1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>d25329831fcc4e8c9888df6340719ba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>blocker_reason</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_id>7ba22642b4f543538b3639d01daec117</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="x_2266053_hirefl_0_ob_task" sys_domain="global" view="Default view">052563c6e23c4c79a797dd1e8d7ffdaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Onboarding Task</caption>
+            <header>false</header>
+            <name>x_2266053_hirefl_0_ob_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>052563c6e23c4c79a797dd1e8d7ffdaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2266053_hirefl_0_ob_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HireFlow 360" source="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HireFlow 360">72a24cdcc3885310871fb0cc05013142</sys_scope>
+            <sys_update_name>sys_ui_section_052563c6e23c4c79a797dd1e8d7ffdaa</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:56</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
     </sys_ui_section>
-  </sys_ui_section>
 </record_update>

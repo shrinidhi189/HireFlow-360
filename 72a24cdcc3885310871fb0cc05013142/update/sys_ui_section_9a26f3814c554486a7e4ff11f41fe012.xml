@@ -1,197 +1,309 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-  <sys_ui_section caption="Probation" section_id="9a26f3814c554486a7e4ff11f41fe012" sys_domain="global" table="x_2266053_hirefl_0_probation" view="">
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.begin_split</element>
-      <position>0</position>
-      <sys_id>2d2e197d874a47a79243e23c7869c3cd</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type>.begin_split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>joiner</element>
-      <position>1</position>
-      <sys_id>e2501958788e454e9814ad49e6a5af54</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>status</element>
-      <position>2</position>
-      <sys_id>13916450f6cd422cb21a64fbad6f09c3</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>end_date</element>
-      <position>3</position>
-      <sys_id>91b6df5bce8f4638aff7d96b803482d2</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>training_completed</element>
-      <position>4</position>
-      <sys_id>76acc3a7582e42d889134e364affe5c0</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>checkpoint_1_status</element>
-      <position>5</position>
-      <sys_id>15cb44aeb3944d0d9a98cadaeb992b27</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>checkpoint_2_status</element>
-      <position>6</position>
-      <sys_id>7f2bad3f6d2c46059935c1ae4035fb24</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>allocation_date</element>
-      <position>7</position>
-      <sys_id>585f1d72226c43ccb9cf158f5f5ef6aa</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>separation_date</element>
-      <position>8</position>
-      <sys_id>7da4eb6e84744a63bcc4bf5fff8c9cba</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.split</element>
-      <position>9</position>
-      <sys_id>0ba8547997704f59b6d8f73668093868</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type>.split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>plan</element>
-      <position>10</position>
-      <sys_id>9811e28f05ec46fda967256e6ac77616</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>start_date</element>
-      <position>11</position>
-      <sys_id>99c29bc628aa450a9c9b8ef4f6ba7945</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>induction_completed</element>
-      <position>12</position>
-      <sys_id>d6c164a961804d3dbfcf5375dc717a50</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>checkpoint_1_date</element>
-      <position>13</position>
-      <sys_id>e0ed49a909d64385bd7c8900327e9098</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>checkpoint_2_date</element>
-      <position>14</position>
-      <sys_id>60df46baf5234ea09cadbdd087f1cf11</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>allocation_eligible</element>
-      <position>15</position>
-      <sys_id>7d9bf552f5de43b589667408f87f4707</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>confirmation_date</element>
-      <position>16</position>
-      <sys_id>7467815e771247cfb8b7da610a486e1f</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.end_split</element>
-      <position>17</position>
-      <sys_id>0812db480a9e403385360533b93ccf4a</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type>.end_split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>separation_reason</element>
-      <position>18</position>
-      <sys_id>fa7856dd317c4167ab030efdacfe53dd</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>notes</element>
-      <position>19</position>
-      <sys_id>2fdc6efd50de46bb9d9e1117256c2970</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <caption>Probation</caption>
-      <header>false</header>
-      <name>x_2266053_hirefl_0_probation</name>
-      <roles/>
-      <sys_domain>global</sys_domain>
-      <sys_id>9a26f3814c554486a7e4ff11f41fe012</sys_id>
-      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
-      <sys_user/>
-      <title>false</title>
-      <view_name/>
-      <view display_value="Default view" name="NULL">Default view</view>
+    <sys_ui_section caption="Probation" section_id="9a26f3814c554486a7e4ff11f41fe012" sys_domain="global" table="x_2266053_hirefl_0_probation" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>2d2e197d874a47a79243e23c7869c3cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>joiner</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>e2501958788e454e9814ad49e6a5af54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>13916450f6cd422cb21a64fbad6f09c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>91b6df5bce8f4638aff7d96b803482d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>training_completed</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>76acc3a7582e42d889134e364affe5c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checkpoint_1_status</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>15cb44aeb3944d0d9a98cadaeb992b27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checkpoint_2_status</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>7f2bad3f6d2c46059935c1ae4035fb24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>allocation_date</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>585f1d72226c43ccb9cf158f5f5ef6aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>separation_date</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>7da4eb6e84744a63bcc4bf5fff8c9cba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>0ba8547997704f59b6d8f73668093868</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plan</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>9811e28f05ec46fda967256e6ac77616</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>99c29bc628aa450a9c9b8ef4f6ba7945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>induction_completed</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>d6c164a961804d3dbfcf5375dc717a50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checkpoint_1_date</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>e0ed49a909d64385bd7c8900327e9098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checkpoint_2_date</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>60df46baf5234ea09cadbdd087f1cf11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>allocation_eligible</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>7d9bf552f5de43b589667408f87f4707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>confirmation_date</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>7467815e771247cfb8b7da610a486e1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>0812db480a9e403385360533b93ccf4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>separation_reason</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>fa7856dd317c4167ab030efdacfe53dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notes</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_id>2fdc6efd50de46bb9d9e1117256c2970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Probation" display_value="Probation" name="x_2266053_hirefl_0_probation" sys_domain="global" view="Default view">9a26f3814c554486a7e4ff11f41fe012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Probation</caption>
+            <header>false</header>
+            <name>x_2266053_hirefl_0_probation</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a26f3814c554486a7e4ff11f41fe012</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2266053_hirefl_0_probation</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HireFlow 360" source="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HireFlow 360">72a24cdcc3885310871fb0cc05013142</sys_scope>
+            <sys_update_name>sys_ui_section_9a26f3814c554486a7e4ff11f41fe012</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
     </sys_ui_section>
-  </sys_ui_section>
 </record_update>

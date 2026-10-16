@@ -1,179 +1,281 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-  <sys_ui_section caption="Exception" section_id="105b2f3f55c344cfa73aaf5300ea6f50" sys_domain="global" table="x_2266053_hirefl_0_exception" view="">
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.begin_split</element>
-      <position>0</position>
-      <sys_id>81ffd2bab47d420d84bd345254775ca6</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type>.begin_split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>joiner</element>
-      <position>1</position>
-      <sys_id>331e02550bbd4fe3b0bf2e1da7dd942e</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>task</element>
-      <position>2</position>
-      <sys_id>be4661ad3dad40539cc948f3e17301fc</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>severity</element>
-      <position>3</position>
-      <sys_id>a5a73f8baf4d4a188cbcbcee2dd2a656</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>raised_by</element>
-      <position>4</position>
-      <sys_id>50d7f853178841a9aa7fd6b2f420c87f</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>resolved_date</element>
-      <position>5</position>
-      <sys_id>b2d4599e29944499bf21c64a58445784</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>escalated_to</element>
-      <position>6</position>
-      <sys_id>fdcb71d3d44743bea7936ee565b54c17</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.split</element>
-      <position>7</position>
-      <sys_id>6cbd875bbe5749fb874e05e2f0c0fa78</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type>.split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>plan</element>
-      <position>8</position>
-      <sys_id>5d2f6a02ab724cf6be612beeb966902c</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>exception_type</element>
-      <position>9</position>
-      <sys_id>5cbafa3cb76241959ba0a1e6354b79ff</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>status</element>
-      <position>10</position>
-      <sys_id>6a28b40db1c149b1b7b98497313153c7</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>raised_date</element>
-      <position>11</position>
-      <sys_id>fd2d54c4dd984270bbde895d5b8954db</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>resolved_by</element>
-      <position>12</position>
-      <sys_id>fa03b10092f34d139672fdaee5f1d77f</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>requires_approval</element>
-      <position>13</position>
-      <sys_id>3b9f51e3432c4b30bc9999655807e300</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.end_split</element>
-      <position>14</position>
-      <sys_id>ef9fef43d2934582977041448ae6b22b</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type>.end_split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>description</element>
-      <position>15</position>
-      <sys_id>fc03f20c07eb424ca73c79de3d24d4c1</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>impact_description</element>
-      <position>16</position>
-      <sys_id>d4a704dbaf474ab18603e00493f39bb0</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>resolution</element>
-      <position>17</position>
-      <sys_id>7544d861cb794949a4c0ff89c8a199aa</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <caption>Exception</caption>
-      <header>false</header>
-      <name>x_2266053_hirefl_0_exception</name>
-      <roles/>
-      <sys_domain>global</sys_domain>
-      <sys_id>105b2f3f55c344cfa73aaf5300ea6f50</sys_id>
-      <sys_scope display_value="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_scope>
-      <sys_user/>
-      <title>false</title>
-      <view_name/>
-      <view display_value="Default view" name="NULL">Default view</view>
+    <sys_ui_section caption="Exception" section_id="105b2f3f55c344cfa73aaf5300ea6f50" sys_domain="global" table="x_2266053_hirefl_0_exception" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>81ffd2bab47d420d84bd345254775ca6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>joiner</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>331e02550bbd4fe3b0bf2e1da7dd942e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>be4661ad3dad40539cc948f3e17301fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>severity</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>a5a73f8baf4d4a188cbcbcee2dd2a656</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>raised_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>50d7f853178841a9aa7fd6b2f420c87f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resolved_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>b2d4599e29944499bf21c64a58445784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>escalated_to</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>fdcb71d3d44743bea7936ee565b54c17</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>6cbd875bbe5749fb874e05e2f0c0fa78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plan</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>5d2f6a02ab724cf6be612beeb966902c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>exception_type</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>5cbafa3cb76241959ba0a1e6354b79ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>6a28b40db1c149b1b7b98497313153c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>raised_date</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>fd2d54c4dd984270bbde895d5b8954db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resolved_by</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>fa03b10092f34d139672fdaee5f1d77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requires_approval</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>3b9f51e3432c4b30bc9999655807e300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>ef9fef43d2934582977041448ae6b22b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>fc03f20c07eb424ca73c79de3d24d4c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact_description</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>d4a704dbaf474ab18603e00493f39bb0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resolution</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_id>7544d861cb794949a4c0ff89c8a199aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception" display_value="Exception" name="x_2266053_hirefl_0_exception" sys_domain="global" view="Default view">105b2f3f55c344cfa73aaf5300ea6f50</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Exception</caption>
+            <header>false</header>
+            <name>x_2266053_hirefl_0_exception</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 04:23:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>105b2f3f55c344cfa73aaf5300ea6f50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2266053_hirefl_0_exception</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HireFlow 360" source="x_2266053_hirefl_0">72a24cdcc3885310871fb0cc05013142</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HireFlow 360">72a24cdcc3885310871fb0cc05013142</sys_scope>
+            <sys_update_name>sys_ui_section_105b2f3f55c344cfa73aaf5300ea6f50</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 04:23:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
     </sys_ui_section>
-  </sys_ui_section>
 </record_update>
